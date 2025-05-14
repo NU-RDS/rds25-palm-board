@@ -1,4 +1,4 @@
-# CAN Bus Testing for Palm Board
+# Encoder & CAN Bus Testing for Palm Board
 This is a platformio project for testing the palm board's CAN Bus and SPI Bus.
 
 ![palm_board](doc/palm_board.png)
