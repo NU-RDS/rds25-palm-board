@@ -14,7 +14,7 @@ In [line 7](https://github.com/NU-RDS/rds25-palm-board/blob/ac7c0db73b8326acae5b
 #define ENCODER1_CS 4 // CS Pin 4. This can be replaced with other CS Pins.
 ```
 
-You can switch bwteen different ports by switching the CS Pin number within [14, 6, 5, 4, 3, 2, 18, 15] as shown in the image above.
+You can switch bwteen different ports by switching the CS Pin number within `14, 6, 5, 4, 3, 2, 18, 15` as shown in the image above.
 
 The output is printed in the serial monitor.
 
