@@ -1,7 +1,7 @@
 # Encoder & CAN Bus Testing for Palm Board
 This is a platformio project for testing the palm board's CAN Bus and SPI Bus.
 
-![palm_board](doc/palm_board.png)
+![palm_board](doc/diagram.png)
 
 ## Demo
 In [main.cpp](src/main.cpp), the program will read an encoder and send random CAN messages for testing SPI and CAN Bus.
