@@ -8,7 +8,7 @@ In [main.cpp](src/main.cpp), the program will read an encoder and send random CA
 
 ### 1. Read Encoders
 
-In [line 7](https://github.com/NU-RDS/rds25-palm-board/blob/ac7c0db73b8326acae5b45e3641a6799e41232e1/src/main.cpp#L7) of main.cpp:
+In the [line 7 of main.cpp]((https://github.com/NU-RDS/rds25-palm-board/blob/ac7c0db73b8326acae5b45e3641a6799e41232e1/src/main.cpp#L7)):
 
 ```cpp
 #define ENCODER1_CS 4 // CS Pin 4. This can be replaced with other CS Pins.
